@@ -17,4 +17,4 @@
 ## Context
 
 - [01-spring-introduction](https://github.com/codermartinn/spring-study-notes/blob/main/notes/01-spring-introduction.md)
-- [02-spring-overview.md](https://github.com/codermartinn/spring-study-notes/blob/main/notes/02-spring-overview.md)
+- [02-spring-overview](https://github.com/codermartinn/spring-study-notes/blob/main/notes/02-spring-overview.md)
