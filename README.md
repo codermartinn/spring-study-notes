@@ -21,3 +21,4 @@
 - [03-spring-quick-start](https://github.com/codermartinn/spring-study-notes/blob/main/notes/03-spring-quick-start.md)
 - [04-spring-ioc](https://github.com/codermartinn/spring-study-notes/blob/main/notes/04-spring-ioc.md)
 - [05-Bean-scope](https://github.com/codermartinn/spring-study-notes/blob/main/notes/05-Bean-scope.md)
+- [06-factory-pattern](https://github.com/codermartinn/spring-study-notes/blob/main/notes/06-factory-pattern.md)
