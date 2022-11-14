@@ -8,7 +8,7 @@
 
 | enviroment | version  |
 | :--------- | -------- |
-| spring     | 6.0.0-M2 |
+| Spring     | 6.0.0-M2 |
 | JDK        | 17       |
 | IDEA       | 2022.2.3 |
 | Maven      | 3.8.6    |
@@ -22,3 +22,4 @@
 - [04-spring-ioc](https://github.com/codermartinn/spring-study-notes/blob/main/notes/04-spring-ioc.md)
 - [05-Bean-scope](https://github.com/codermartinn/spring-study-notes/blob/main/notes/05-Bean-scope.md)
 - [06-factory-pattern](https://github.com/codermartinn/spring-study-notes/blob/main/notes/06-factory-pattern.md)
+- [07-bean-instantiation](https://github.com/codermartinn/spring-study-notes/blob/main/notes/07-bean-instantiation.md)
