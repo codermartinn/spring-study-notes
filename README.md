@@ -23,3 +23,4 @@
 - [05-Bean-scope](https://github.com/codermartinn/spring-study-notes/blob/main/notes/05-Bean-scope.md)
 - [06-factory-pattern](https://github.com/codermartinn/spring-study-notes/blob/main/notes/06-factory-pattern.md)
 - [07-bean-instantiation](https://github.com/codermartinn/spring-study-notes/blob/main/notes/07-bean-instantiation.md)
+- [08-bean-lifecycle](https://github.com/codermartinn/spring-study-notes/blob/main/notes/08-bean-lifecycle.md)
