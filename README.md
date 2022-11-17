@@ -26,10 +26,10 @@
 - [08-bean-lifecycle](https://github.com/codermartinn/spring-study-notes/blob/main/notes/08-bean-lifecycle.md)
 - [09-bean-circular-dependency](https://github.com/codermartinn/spring-study-notes/blob/main/notes/09-bean-circular-dependency.md)
 - [10-reflection-review](https://github.com/codermartinn/spring-study-notes/blob/main/notes/10-reflection-review.md)
-- 📝 [11-mini-spring](https://github.com/codermartinn/spring-study-notes/blob/main/notes/11-mini-spring.md)
+- [11-mini-spring]
 - [12-spring-annotated-development](https://github.com/codermartinn/spring-study-notes/blob/main/notes/12-spring-annotated-development.md)
-- [13-spring-JdbcTemplate]()
-- [14-proxy-pattern]()
+- [13-spring-JdbcTemplate]
+- [14-proxy-pattern]
 - [15-spring-aop](https://github.com/codermartinn/spring-study-notes/blob/main/notes/15-spring-aop.md)
 
 ## TODO
