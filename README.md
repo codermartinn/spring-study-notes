@@ -28,7 +28,12 @@
 - [10-reflection-review](https://github.com/codermartinn/spring-study-notes/blob/main/notes/10-reflection-review.md)
 - 📝 [11-mini-spring](https://github.com/codermartinn/spring-study-notes/blob/main/notes/11-mini-spring.md)
 - [12-spring-annotated-development](https://github.com/codermartinn/spring-study-notes/blob/main/notes/12-spring-annotated-development.md)
+- [13-spring-JdbcTemplate]()
+- [14-proxy-pattern]()
+- [15-spring-aop](https://github.com/codermartinn/spring-study-notes/blob/main/notes/15-spring-aop.md)
 
 ## TODO
 
 - 11-mini-spring
+- 13-spring-JdbcTemplate
+- 14-proxy-pattern
